@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="antmicro" fetch="${REPO_URL}/../"/>
+  <remote name="antmicro" fetch="https://github.com/antmicro"/>
   <remote name="xilinx"   fetch="https://github.com/Xilinx"/>
 
   <default sync-j="4"/>
