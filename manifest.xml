@@ -5,10 +5,12 @@
 
   <default sync-j="4"/>
 
+  <project name="meta-antmicro"               path="sources/meta-antmicro"               remote="antmicro"         revision="f6275bf1bab260e9d753afe0f8ed907fbec45a15" upstream="master"/>
   <project name="meta-arm"                    path="sources/meta-arm"                    remote="xilinx"           revision="1947c000299c0330e8a866996505221a14c0e1ea" upstream="rel-v2024.2"/>
   <project name="meta-openamp"                path="sources/meta-openamp"                remote="xilinx"           revision="68049285b561f071bd7cc093f9ecbe4f5518ddf9" upstream="rel-v2024.2"/>
   <project name="meta-openembedded"           path="sources/meta-openembedded"           remote="xilinx"           revision="735ae0310870ffce07ce0c55c4f87c20ac161ff9" upstream="rel-v2024.2"/>
   <project name="meta-security"               path="sources/meta-security"               remote="xilinx"           revision="459d837338ca230254baa2994f870bf6eb9d0139" upstream="rel-v2024.2"/>
+  <project name="meta-virtualization"         path="sources/meta-virtualization"         remote="xilinx"           revision="f8a35f5e39eeb122be4e29b289102211bc63beea" upstream="rel-v2024.2"/>
   <project name="meta-xilinx"                 path="sources/meta-xilinx"                 remote="xilinx"           revision="4101b4247d99cb71f97a48c35fc0b72e25412fbf" upstream="rel-v2024.2" sync-s="true"/>
   <project name="meta-xilinx-tools"           path="sources/meta-xilinx-tools"           remote="xilinx"           revision="4cf992dba9ad83aafe48e787e189f574e57a2823" upstream="rel-v2024.2"/>
   <project name="meta-xilinx-tsn"             path="sources/meta-xilinx-tsn"             remote="xilinx"           revision="6a6c645f104f8c822c857933eb560bf9003843b8" upstream="rel-v2024.2"/>
