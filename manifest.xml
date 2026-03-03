@@ -5,7 +5,7 @@
 
   <default sync-j="4"/>
 
-  <project name="meta-antmicro"               path="sources/meta-antmicro"               remote="antmicro"         revision="5b5dca7dfb987c3d8a0e0e7f078ed506eea11d64" upstream="master"/>
+  <project name="meta-antmicro"               path="sources/meta-antmicro"               remote="antmicro"         revision="0f4d5ea1c89a3777845461fd0a0f24e83f8b5af3" upstream="master"/>
   <project name="meta-arm"                    path="sources/meta-arm"                    remote="xilinx"           revision="1947c000299c0330e8a866996505221a14c0e1ea" upstream="rel-v2024.2"/>
   <project name="meta-openamp"                path="sources/meta-openamp"                remote="xilinx"           revision="68049285b561f071bd7cc093f9ecbe4f5518ddf9" upstream="rel-v2024.2"/>
   <project name="meta-openembedded"           path="sources/meta-openembedded"           remote="xilinx"           revision="735ae0310870ffce07ce0c55c4f87c20ac161ff9" upstream="rel-v2024.2"/>
