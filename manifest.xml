@@ -15,7 +15,7 @@
   <project name="meta-xilinx-tools"           path="sources/meta-xilinx-tools"           remote="xilinx"           revision="4cf992dba9ad83aafe48e787e189f574e57a2823" upstream="rel-v2024.2"/>
   <project name="meta-xilinx-tsn"             path="sources/meta-xilinx-tsn"             remote="xilinx"           revision="6a6c645f104f8c822c857933eb560bf9003843b8" upstream="rel-v2024.2"/>
   <project name="poky"                        path="sources/poky"                        remote="xilinx"           revision="e86fd88e8efbbc2aa4730776ab284e072d57da04" upstream="rel-v2024.2"/>
-  <project name="meta-zynqmp-platform-tester" path="sources/meta-zynqmp-platform-tester" remote="antmicro"         revision="473e5bccdefc57e590928440829ce723fe9b1d71" upstream="main">
+  <project name="meta-zynqmp-platform-tester" path="sources/meta-zynqmp-platform-tester" remote="antmicro"         revision="daedb2a5a7e0f38cc15294ad2fe2f56be0decb3e" upstream="main">
     <linkfile dest="build/conf/bblayers.conf" src="system-releases/tester-bsp/bblayers.conf"/>
     <linkfile dest="build/conf/local.conf"    src="system-releases/tester-bsp/local.conf"/>
   </project>
